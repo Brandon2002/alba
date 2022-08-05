@@ -1,0 +1,66 @@
+h1, h2{
+    text-align: center;
+    color: aliceblue;
+    display: inline;
+}
+
+div #e{
+    display: inline;
+}
+
+img #img1{
+    display: center;
+}
+
+input{
+    display: inline;
+    margin: auto;
+}
+select{
+    display: inline;
+}
+
+img #img{
+    position: absolute;
+} 
+
+p{
+    text-align: left;
+    color: aliceblue;
+    font-family: 'Cinzel', serif;
+}
+
+div #es{
+    text-align: center;
+    color: aliceblue;
+}
+
+div #des{
+    text-align: center;
+    color: aliceblue;
+}
+
+div #eras{
+    color: aliceblue;
+    display: inline;
+}
+
+
+div #es{
+    display: none;
+}
+
+#btn1:hover{
+    background-color: #37d480;
+    color: black;
+    border: none;
+}
+
+body{
+    background:black;
+}
+
+div #photo{
+    margin: 15px;
+    margin-bottom: 16px;
+}
